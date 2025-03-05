@@ -1,4 +1,5 @@
 import boto3
 
-def manin():
-print("Hello World")
+
+def main():
+  print("Hello World")
